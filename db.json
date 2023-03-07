@@ -1,11 +1,4 @@
 {
-    "users":[
-      {
-        "email": "grv@gmail.com",
-        "username": "gaurav",
-        "password": "2023",
-        "confirm_password": "2023"
-        }
-     ],
+    "users":[],
     "tasks":[]
   }
